@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style_lab2.css">
+    <style>
+        body {
+            background-image: url(lab2_img/17899.jpg);
+            font-family: Montserrat-SemiBold;
+        }
+    </style>
+</head>
+<body>
+
+    <h1 class= "Name_Lab2">MusPedia <a href="C:\Users\Udachin\Desktop\Учеба\WEB\main\about.html">About</a> <a href="http://google.com.ua">News</a> <a href="http://google.com.ua">Events</a> <a href="http://google.com.ua">Store</a> <a href="http://google.com.ua">Genres</a> </h1>
+    <div class = "Labs_lab2">
+        <p><a href="C:\Users\Udachin\Desktop\Учеба\WEB\main\laba1.html">Lab1</a> </p>
+        <p><a href="C:\Users\Udachin\Desktop\Учеба\WEB\lab2/index.html">Lab2</a></p>
+        <p><a href="https://www.google.com.ua/">Lab3</a></p>
+        <p><a href="https://www.google.com.ua/">Lab4</a></p>
+        <p><a href="https://www.google.com.ua/">Lab5</a></p>
+        <p><a href="https://www.google.com.ua/">Lab6</a></p>
+        <p><a href="https://www.google.com.ua/">Lab7</a></p>
+        <p><a href="https://www.google.com.ua/">Lab8</a></p>
+        <p><a href="https://www.google.com.ua/">Lab9</a></p>
+    </div>
+
+
+    <section class = "section1">
+        <img src="lab2_img/drake.jpg" alt="drake" width="200" />
+       <p>
+        Вышел "<span id="album">Certified Lover Boy</span>" — первый альбом Дрейка после "Scorpion" (2018) и шестой в его дискографии. В записи участвовали Jay-Z, Future, Travis Scott, Lil Wayne, Young Thug, 21 Savage, Ty Dolla $ign, Kid Cudi, Rick Ross, Lil Baby и не только. За продакшн отвечали Noah "40" Shebib, Oliver El-Khatib, Metro Boomin, Partynextdoor, TM88, OG Ron C, Vinylz и Nineteen85.
+       </p>
+    </section>
+
+    <section class = "section2">
+        <p>Список Последних альбомов<p>
+        <ul type="square">
+            <li>Scorpion (2018)</li>
+            <li>More Life (2017)</li>
+            <li>Views (2016)</li>
+            <li>Nothing Was The Same (2013)</li>
+            <li>Take care (2011)</li>
+        </ul>
+    </section>
+
+    <p class = "P_foot"> <a href = "C:\Users\Udachin\Desktop\Учеба\WEB\lab2\Code_lab2.html">Звіт</a></p>
+
+</body>
+</html>
